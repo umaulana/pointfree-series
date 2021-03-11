@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Episode 1'/>
+        <page name='Episode 2'/>
+        <page name='Episode 3'/>
+        <page name='Episode 4'/>
+        <page name='Episode 5'/>
+    </pages>
+</playground>
