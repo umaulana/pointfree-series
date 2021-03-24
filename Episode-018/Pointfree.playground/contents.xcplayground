@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Episode 1'/>
+        <page name='Episode 2'/>
+        <page name='Episode 3'/>
+        <page name='Episode 4'/>
+        <page name='Episode 5'/>
+        <page name='Episode 6'/>
+        <page name='Episode 7'/>
+        <page name='Episode 8'/>
+        <page name='Episode 9'/>
+        <page name='Episode 10'/>
+        <page name='Episode 11'/>
+        <page name='Episode 12'/>
+        <page name='Episode 13'/>
+        <page name='Episode 14'/>
+        <page name='Episode 15'/>
+        <page name='Episode 16'/>
+        <page name='Episode 17'/>
+        <page name='Episode 18'/>
+    </pages>
+</playground>
