@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../Pointfree.playground">
+   </FileRef>
+   <Group
+      location = "group:../../Vendor"
+      name = "Vendor">
+      <Group
+         location = "group:swift-overture"
+         name = "swift-overture">
+         <FileRef
+            location = "group:CODE_OF_CONDUCT.md">
+         </FileRef>
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <FileRef
+            location = "group:Overture.xcworkspace">
+         </FileRef>
+         <FileRef
+            location = "group:Dockerfile">
+         </FileRef>
+         <FileRef
+            location = "group:Makefile">
+         </FileRef>
+         <Group
+            location = "group:Tests"
+            name = "Tests">
+            <FileRef
+               location = "group:LinuxMain.swift">
+            </FileRef>
+            <Group
+               location = "group:OvertureTests"
+               name = "OvertureTests">
+               <FileRef
+                  location = "group:CurryTests.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:WithTests.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:ConcatTests.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:PipeTests.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:UncurryTests.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:ComposeTests.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:FlipTests.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:ChainTests.swift">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Development.xcconfig">
+         </FileRef>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+         <FileRef
+            location = "group:Overture.playground">
+         </FileRef>
+         <FileRef
+            location = "group:Package.resolved">
+         </FileRef>
+         <FileRef
+            location = "group:Overture.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:Package.swift">
+         </FileRef>
+         <Group
+            location = "group:Sources"
+            name = "Sources">
+            <Group
+               location = "group:Overture"
+               name = "Overture">
+               <FileRef
+                  location = "group:Curry.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Setters.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Concat.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Zurry.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Sequence.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Pipe.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Chain.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Flip.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Uncurry.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:KeyPath.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:With.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Compose.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Optional.swift">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Overture.podspec">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
