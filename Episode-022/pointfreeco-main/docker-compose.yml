@@ -1,0 +1,23 @@
+version: '3.7'
+
+services:
+  db:
+    environment:
+      POSTGRES_DB: pointfreeco_development
+      POSTGRES_HOST_AUTH_METHOD: trust
+      POSTGRES_USER: pointfreeco
+    image: postgres
+    ports:
+      - '5433:5432'
+    restart: always
+
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile.local
+    depends_on:
+      - db
+    environment:
+      DATABASE_URL: postgres://pointfreeco:@db:5432/pointfreeco_development
+    ports:
+      - '8080:8080'
