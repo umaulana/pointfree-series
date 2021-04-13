@@ -1,0 +1,7 @@
+<UITableView; frame = (0 0; 0 0); clipsToBounds = YES; autoresize = W+H; gestureRecognizers = <NSArray>; layer = <CALayer>; contentOffset: {0, 0}; contentSize: {0, 2000}; adjustedContentInset: {0, 0, 0, 0}; dataSource: <_UIFilteredDataSource>>
+   | <_UIScrollerImpContainerView; frame = (0 -15; 0 15); clipsToBounds = YES; userInteractionEnabled = NO; layer = <CALayer>>
+   |    | <CALayer> (layer)
+   |    | <CALayer> (layer)
+   | <_UIScrollerImpContainerView; frame = (-15 0; 15 0); clipsToBounds = YES; userInteractionEnabled = NO; layer = <CALayer>>
+   |    | <CALayer> (layer)
+   |    | <CALayer> (layer)
